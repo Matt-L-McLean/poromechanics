@@ -1,5 +1,5 @@
 # Coupled THM Numerical Simulation
-This repository contains 3D thermo-poroelastoplastic numerical simulations solved with open source software Fenicsx. The goal of this repository is to (1) supply freely available numerical codes for coupled thermo-hydro-mechanical applications, e.g., geothermal energy, carbon geological storage, EOR techniques, etc., (2) provide codes that account for advanced poromechancial constitutive behavior, e.g., shear failure criterion, post yield softening, etc., and (3) allow the geomechananics community to ulilize, fork, and modify the source code.
+This repository contains 3D thermo-poroelastoplastic numerical simulations solved with open source software Fenicsx. The goal of this repository is to (1) supply freely available numerical codes for coupled thermo-hydro-mechanical applications, e.g., geothermal energy, carbon geological storage, saltwater disposal, etc., (2) provide codes that account for advanced poromechancial constitutive behavior, e.g., shear failure criterion, post yield softening, etc., and (3) allow the geomechananics community to ulilize, fork, and modify the source code.
 
 The following open-source packages must be installed prior to running the code:
 1) Fenicsx - https://fenicsproject.org/
